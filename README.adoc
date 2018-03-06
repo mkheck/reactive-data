@@ -4,6 +4,7 @@
 
 * Mark Heckler
 * mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://www.thehecklers.com[Hecklers in Development, brewing stronger Java (blog)]
 * https://twitter.com/MkHeck[@mkheck on Twitter]
 
 == Purpose
