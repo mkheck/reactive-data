@@ -1,0 +1,24 @@
+= Go Reactive with your Data: How to stop blockages using Spring Data & Reactive NoSQL DBs
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/MkHeck[@mkheck on Twitter]
+
+== Purpose
+
+This repo accompanies my session titled "Go Reactive with your Data".
+
+== Notes
+
+NOTE: This is a parent repository. Here are the code repos for the various different reactive Spring Data examples I code in my session:
+
+* https://github.com/mkheck/reactive-redis[Reactive Redis with Spring Data & Project Reactor]
+* https://github.com/mkheck/reactive-couchbase[Reactive Couchbase with Spring Data & Project Reactor]
+* https://github.com/mkheck/reactive-mongodb[Reactive MongoDB with Spring Data & Project Reactor]
+* https://github.com/mkheck/reactive-cassandra[Reactive Cassandra with Spring Data & Project Reactor]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/[Go Reactive with your Data presentation on Speakerdeck]
