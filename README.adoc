@@ -22,4 +22,4 @@ NOTE: This is a parent repository. Here are the code repos for the various diffe
 
 == Related presentation
 
-https://speakerdeck.com/mkheck/[Go Reactive with your Data presentation on Speakerdeck]
+https://speakerdeck.com/mkheck/go-reactive-with-your-data-how-to-stop-blockages-using-spring-data-and-reactive-nosql-dbs[Go Reactive with your Data: accompanying presentation]
